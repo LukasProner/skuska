@@ -8,3 +8,5 @@ a pisal
 2a
 3a
 4a
+neviem 1 hello
+hej sak aj ja som zmenil plno veci
